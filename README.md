@@ -8,6 +8,10 @@ A react native chatbot component to create conversation chats. Based on [react-s
 
 ```bash
 npm install react-native-chatbot --save
+
+or
+
+yarn add react-native-chatbot
 ```
 
 ## Usage
