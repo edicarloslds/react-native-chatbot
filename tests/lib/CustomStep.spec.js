@@ -7,7 +7,7 @@ import { CustomStep } from '../../lib/steps/steps';
 import CustomStepContainer from '../../lib/steps/custom/CustomStepContainer';
 
 const Example = () => (
-  <Text className="example">
+  <Text>
     Example
   </Text>
 );

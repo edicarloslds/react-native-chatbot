@@ -12,7 +12,6 @@
 // describe('ChatBot', () => {
 //   const wrapper = shallow(
 //     <ChatBot
-//       className="classname-test"
 //       botDelay={0}
 //       userDelay={0}
 //       customDelay={0}
@@ -62,10 +61,6 @@
 //
 //   it('should render', () => {
 //     expect(wrapper.hasClass('rsc')).to.be.equal(true);
-//   });
-//
-//   it('should render with class \'classname-test\'', () => {
-//     expect(wrapper.hasClass('classname-test')).to.be.equal(true);
 //   });
 //
 //   it('should render a custom step', () => {

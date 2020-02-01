@@ -52,7 +52,6 @@ const steps = [
 | `optionElementStyle` | `PropTypes.object` | | The style object to use to override the option element |
 | `optionFontColor` | `PropTypes.string` | | Option font color |
 | `optionBubbleColor` | `PropTypes.string` | | Option bubble color |
-| `className` | `PropTypes.string` | | Add a class name to root element |
 | `contentStyle` | `PropTypes.object` | | The style object to use to override the scroll element |
 | `customDelay` | `PropTypes.number` | `1000` | The delay time of custom messages |
 | `customStyle` | `PropTypes.object	` | | The style object to use to override the custom step element |
